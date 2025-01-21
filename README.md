@@ -27,4 +27,5 @@ Small, next.js training project basing on made up version of multi-player (2-9 p
   - [ ] Implement multi-player
   - [ ] /\*draft\*/ API for WebAssembly AI modules 
     - [ ] Design the needed I/O interfaces
-    - [ ] Loading the modules 
+    - [ ] Loading the modules
+  - [ ] Server for playing 
